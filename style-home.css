@@ -1,0 +1,67 @@
+body {
+border:5px solid #349	;
+background: orange;
+
+
+}
+
+#bald {
+	width:40%;
+	border:20px ;
+	margin-left:20px;
+}
+
+h1 {
+  text-align:center;
+  font-size: 40px;
+  color:rgb(20, 20, 20);
+  background: #3a58c2
+
+}
+h2 {
+	text-align:center;
+	font-size:40px;
+	color:black;
+	background: rgb(94, 206, 94)
+
+}
+
+p {
+	text-align:center;
+	font-size:20px;
+	margin-left:20px;
+	margin-right:20px;
+
+
+  
+  
+}
+.agredece {
+	font-style:italic;
+	background: wheat;
+}
+
+ul {
+	display:inline-block;
+	vertical-align:top;
+	margin-top:200px;
+	
+}
+
+#missao {
+	font-size:25px;
+	border: 10px solid #1FE;
+	background: #1FE;
+}
+
+.br {
+	width:70%;
+	margin-left:180px;
+	border:10px solid rgb(84, 81, 228)
+	
+}
+
+
+strong {
+	color:black;
+}
